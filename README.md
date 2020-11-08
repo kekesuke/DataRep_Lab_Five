@@ -1,0 +1,1 @@
+Express.js, or simply Express, is a back end web application framework for Node.js, it's free and open-source software. It is designed for building web applications and APIs. It is a web framework for Node.js.
